@@ -17,3 +17,4 @@
 
 - Gets Tempreture, Humidity, Discription and an Emoji.
 
+![weatherApp](https://github.com/user-attachments/assets/2ae7cec0-867b-4773-aca7-fa4896416d86)
